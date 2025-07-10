@@ -1,0 +1,10 @@
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (1, 'Ana López', 'ana.lopez@example.com', '2023-01-15');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (2, 'Carlos Rodríguez', 'carlos.rodriguez@example.com', '2022-12-20');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (3, 'Lucía Martínez', 'lucia.martinez@example.com', '2024-02-10');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (4, 'Miguel Torres', 'miguel.torres@example.com', '2023-05-25');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (5, 'Sofía Herrera', 'sofia.herrera@example.com', '2024-03-08');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (6, 'Javier Díaz', 'javier.diaz@example.com', '2022-07-14');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (7, 'Valeria Gómez', 'valeria.gomez@example.com', '2023-09-01');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (8, 'Fernando Álvarez', 'fernando.alvarez@example.com', '2024-01-05');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (9, 'Camila Mendoza', 'camila.mendoza@example.com', '2022-11-11');
+INSERT INTO customers (customer_id, name, email, registration_date) VALUES (10, 'Diego Ramírez', 'diego.ramirez@example.com', '2023-06-30');
