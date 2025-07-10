@@ -1,8 +1,8 @@
-# Prueba Técnica: Ingeniero de Datos (Semi-Senior) - Finaipro
+Data Finance Finaipro
 
 ## Autor: Camilo Del Río
 
-Este proyecto corresponde a la prueba técnica para la vacante de Ingeniero de Datos Semi Senior en Finaipro. Se han desarrollado soluciones en Google Colab (para los puntos 1 y 2) y en un documento .doc (para el punto 3), abordando los distintos retos planteados.
+Este proyecto corresponde proyecto financiero de Finaipro. Se han desarrollado soluciones en Google Colab (para los puntos 1 y 2) y en un documento .doc (para el punto 3), abordando los distintos retos planteados.
 
 ### Condiciones del ejericicio
 
